@@ -14,6 +14,11 @@
       "name": "mila-tools",
       "source": "./mila-tools",
       "description": "Skills for Mila cluster users: account setup, local setup, SSH connection, and running jobs"
+    },
+    {
+      "name": "research-tools",
+      "source": "./research-tools",
+      "description": "Skills for reading papers: a Zotero reading buddy that explains the passages you highlight"
     }
   ]
 }
